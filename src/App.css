@@ -1,0 +1,22 @@
+#root {
+  margin: -20px;
+  text-align: center;
+}
+
+#header {
+  color: black;
+  background-color: gray;
+}
+
+#detailrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+   rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+#showdata{
+  width: 60%;
+  margin: auto;
+}
